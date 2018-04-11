@@ -12,7 +12,7 @@ The Chapter will award one scholarship with a value of $1000 for the upcoming ac
 
 Applications must be submitted by the first business day following March 31st, each year. The application package can be downloaded from the A&WMA New England Section website [Click Here](http://www.awmanewengland.org/Documents/CT%20Chapter/CT%20AWMA%20Scholarship%20Application.pdf).
 
-<a href="https://www.linkedin.com/groups/5156530"><img src="http://www.awmanewengland.org/Web%20Page%20Images/Linked%20in%20Logo.png" width="124" height="43" /></a>
+<a href="https://www.linkedin.com/groups/5156530"><img src="Linked-in-Logo.png" width="124" height="43" /></a>
 
 ## Membership Information
 
