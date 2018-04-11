@@ -30,17 +30,23 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 ### Board of Directors
 
-* Ledge Chamberlain. Eversource.
-* Dennis Demchak. Retired.
-* Lee Hoffman.
-* Steve Holtman. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969
-* Robert Isner.
-* Doug Murray. [TRC](http://www.trcsolutions.com/)
+| Position | Name              | Affiliation | Phone | E-mail |
+| -------- | ----------------- | ----------- | ----- | ------ |
+| Director | Ledge Chamberlain | Eversource  |       |        |
+| Director | Dennis Demchak    | Retired     |       |        |
+| Director | Lee Hoffman       |             |       |        |
+| Director | Steve Holtman     | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | |
+| Director | Robert Isner      |             |       |        |
+| Director | Doug Murray       | [TRC](http://www.trcsolutions.com/) | | |
 
 ### Education Committee
 
-* Chair: Open Position
+| Position | Name |
+| -------- | ---- |
+| Chair    | *Open Position*|
 
 ### Social Media Commitee
 
-* Chair: Patrick Wright. [TRC](http://www.trcsolutions.com/)
+| Position | Name              | Affiliation | Phone | E-mail |
+| -------- | ----------------- | ----------- | ----- | ------ |
+| Chair    | Patrick Wright    | [TRC](http://www.trcsolutions.com/) | | |
