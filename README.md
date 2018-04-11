@@ -21,19 +21,19 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 ### Officers
 
 * Chair: David Krochko. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 dkrochko@woodardcurran.com 
-* Vice Chair: Iain Kinsella. Yale University. iain.kinsella@yale.edu
-* Treasurer: Michael Newman. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 mnewman@woodardcurran.com
+* Vice Chair: Iain Kinsella. [Yale University](https://www.yale.edu/) iain.kinsella@yale.edu
+* Treasurer: [Michael Newman](https://www.linkedin.com/in/michael-newman-82481722/). [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 mnewman@woodardcurran.com
 * Secretary: Jennifer Beaulieu. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 jbeaulieu@woodardcurran.com
 * Immediate Past Chair: Dana Lowes-Hobson. [TRC](http://www.trcsolutions.com/) 860-298-6203 dlowes-hobson@trcsolutions.com
 
 ### Board of Directors
 
-* Spot 1
-* Spot 2
-* Spot 3
-* Spot 4
-* Spot 5
-* Spot 6
+* Ledge Chamberlain. Eversource.
+* Dennis Demchak. Retired.
+* Lee Hoffman.
+* Steve Holtman. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969
+* Robert Isner.
+* Doug Murray. [TRC](http://www.trcsolutions.com/)
 
 ### Education Committee
 
@@ -41,4 +41,4 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 ### Social Media Commitee
 
-* Chair
+* Chair: Patrick Wright. [TRC](http://www.trcsolutions.com/)
