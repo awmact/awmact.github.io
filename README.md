@@ -1,3 +1,5 @@
+![image](awma-banner-conn-chap.gif)
+
 # Connecticut Chapter of the Air & Waste Management Association
 
 The Connecticut Chapter of the Air & Waste Management Association, New England Section, is a group of environmental professionals with related scientific, engineering, and health backgrounds from private sector companies, government agencies, and academia.  Regular meetings are scheduled throughout the year and include evening dinners with speakers on current environmental topics of interest, other educational events, and site tours.   The Chapter supports CT student science fairs and sponsors an annual scholarship for high school and college students. 
