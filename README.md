@@ -14,7 +14,7 @@ Applications must be submitted by the first business day following March 31st, e
 
 ## Membership Information
 
-For questions or information about membership in the Connecticut Chapter of A&WMA-NES, please contact the Chapter at awmact@gmail.com.
+For questions or information about membership in the Connecticut Chapter of A&WMA-NES, please contact the Chapter at [awmact@gmail.com](mailto:awmact@gmail.com).
 
 ## A&WMA-NES Connecticut Chapter Officers and Board Members
 
