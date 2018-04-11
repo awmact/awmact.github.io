@@ -20,11 +20,11 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 ### Officers
 
-* Chair: David Krochko. Woodward & Curran, 1520 Highland Avenue, Cheshire, CT 06410. 888/265.8969 dkrochko@woodardcurran.com 
-* Vice Chair
-* Treasurer
-* Secretary
-* Immediate Past Chair
+* Chair: David Krochko. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 dkrochko@woodardcurran.com 
+* Vice Chair: Iain Kinsella. Yale University. iain.kinsella@yale.edu
+* Treasurer: Michael Newman. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 mnewman@woodardcurran.com
+* Secretary: Jennifer Beaulieu. [Woodward & Curran](http://www.woodardcurran.com/) 888-265-8969 jbeaulieu@woodardcurran.com
+* Immediate Past Chair: Dana Lowes-Hobson. [TRC](http://www.trcsolutions.com/) 860-298-6203 dlowes-hobson@trcsolutions.com
 
 ### Board of Directors
 
