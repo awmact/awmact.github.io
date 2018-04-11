@@ -45,7 +45,7 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 | -------- | ---- |
 | Chair    | *Open Position*|
 
-### Social Media Commitee
+### Social Media Committee
 
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
