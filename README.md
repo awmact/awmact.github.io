@@ -22,21 +22,21 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 | Position | Name          | Affiliation | Phone | E-mail |
 | -------- | ------------- | ----------- | ----- | ------ |
-| Chair    | David Krochko | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | dkrochko@woodardcurran.com |
-| Vice Chair | Iain Kinsella | [Yale University](https://www.yale.edu/) | 203-436-8034 | iain.kinsella@yale.edu |
+| Chair    | [David Krochko](https://www.linkedin.com/in/david-krochko-p-e-0509b017/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | dkrochko@woodardcurran.com |
+| Vice Chair | [Iain Kinsella](https://www.linkedin.com/in/iain-kinsella-497241116/) | [Yale University](https://www.yale.edu/) | 203-436-8034 | iain.kinsella@yale.edu |
 | Treasurer | [Michael Newman](https://www.linkedin.com/in/michael-newman-82481722/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | mnewman@woodardcurran.com |
-| Secretary | Jennifer Beaulieu | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | jbeaulieu@woodardcurran.com |
-| Immediate Past Chair | Dana Lowes-Hobson | [TRC](http://www.trcsolutions.com/) | 860-298-6203 | dlowes-hobson@trcsolutions.com |
+| Secretary | [Jennifer Beaulieu](https://www.linkedin.com/in/jennifer-beaulieu-393ab849/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | jbeaulieu@woodardcurran.com |
+| Immediate Past Chair | [Dana Lowes-Hobson](https://www.linkedin.com/in/dana-lowes-hobson-8699a75/) | [TRC](http://www.trcsolutions.com/) | 860-298-6203 | dlowes-hobson@trcsolutions.com |
 
 ### Board of Directors
 
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
-| Director | Ledge Chamberlain | [Eversource](https://www.eversource.com/content/) | 860-665-3183 | h.chamberlain@eversource.com |
-| Director | Dennis Demchak    | Retired     |       |        |
-| Director | Lee Hoffman       | [Pullman & Comley](http://www.pullcom.com/) | 860-424-4315 | lhoffman@pullcom.com |
-| Director | Steve Holtman     | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | sholtman@woodardcurran.com |
-| Director | Robert Isner      | [CT Dept of Energy & Environment Protection](http://www.ct.gov/deep/) | 860-424-3264 | robert.isner@ct.gov |
+| Director | [Ledge Chamberlain](https://www.linkedin.com/in/ledger-chamberlain-a5864266/) | [Eversource](https://www.eversource.com/content/) | 860-665-3183 | h.chamberlain@eversource.com |
+| Director | [Dennis Demchak](https://www.linkedin.com/in/dennis-demchak-0b3a629b/) | Retired     |       |        |
+| Director | [Lee Hoffman](https://www.linkedin.com/in/lee-hoffman-7546609/) | [Pullman & Comley](http://www.pullcom.com/) | 860-424-4315 | lhoffman@pullcom.com |
+| Director | [Steve Holtman](https://www.linkedin.com/in/steve-holtman-bb9a7611/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | sholtman@woodardcurran.com |
+| Director | [Robert Isner](https://www.linkedin.com/in/robert-isner-1891b447/) | [CT Dept of Energy & Environment Protection](http://www.ct.gov/deep/) | 860-424-3264 | robert.isner@ct.gov |
 | Director | Doug Murray       | [TRC](http://www.trcsolutions.com/) | 860-298-6240 | dmurray@trcsolutions.com |
 
 ### Education Committee
@@ -49,4 +49,4 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
-| Chair    | Patrick Wright    | [TRC](http://www.trcsolutions.com/) | 860-298-6295 | pwright@trcsolutions.com |
+| Chair    | [Patrick Wright](https://www.linkedin.com/in/patrick-wright-8b9a4b1b/) | [TRC](http://www.trcsolutions.com/) | 860-298-6295 | pwright@trcsolutions.com |
