@@ -32,12 +32,12 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
-| Director | Ledge Chamberlain | Eversource  |       |        |
+| Director | Ledge Chamberlain | [Eversource](https://www.eversource.com/content/) | 860-665-3183 | h.chamberlain@eversource.com |
 | Director | Dennis Demchak    | Retired     |       |        |
-| Director | Lee Hoffman       |             |       |        |
-| Director | Steve Holtman     | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | |
-| Director | Robert Isner      |             |       |        |
-| Director | Doug Murray       | [TRC](http://www.trcsolutions.com/) | | |
+| Director | Lee Hoffman       | [Pullman & Comley](http://www.pullcom.com/) | 860-424-4315 | lhoffman@pullcom.com |
+| Director | Steve Holtman     | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | sholtman@woodardcurran.com |
+| Director | Robert Isner      | [CT Dept of Energy & Environment Protection](http://www.ct.gov/deep/) | 860-424-3264 | robert.isner@ct.gov |
+| Director | Doug Murray       | [TRC](http://www.trcsolutions.com/) | 860-298-6240 | dmurray@trcsolutions.com |
 
 ### Education Committee
 
@@ -49,4 +49,4 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
-| Chair    | Patrick Wright    | [TRC](http://www.trcsolutions.com/) | | |
+| Chair    | Patrick Wright    | [TRC](http://www.trcsolutions.com/) | 860-298-6295 | pwright@trcsolutions.com |
