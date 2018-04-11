@@ -52,3 +52,8 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
 | Chair    | [Patrick Wright](https://www.linkedin.com/in/patrick-wright-8b9a4b1b/) | [TRC](http://www.trcsolutions.com/) | 860-298-6295 | [pwright@trcsolutions.com](mailto:pwright@trcsolutions.com) |
+
+### Related Links
+
+* [A&WMA New England Section](http://www.awmanewengland.org/)
+* [Air & Waste Mangaement Association](http://www.awma.org/)
