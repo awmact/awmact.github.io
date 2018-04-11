@@ -22,10 +22,10 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 | Position | Name          | Affiliation | Phone | E-mail |
 | -------- | ------------- | ----------- | ----- | ------ |
-| Chair    | David Krochko | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | dkrochko@woodardcurran.com |
+| Chair    | David Krochko | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | dkrochko@woodardcurran.com |
 | Vice Chair | Iain Kinsella | [Yale University](https://www.yale.edu/) | 203-436-8034 | iain.kinsella@yale.edu |
-| Treasurer | [Michael Newman](https://www.linkedin.com/in/michael-newman-82481722/) | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | mnewman@woodardcurran.com |
-| Secretary | Jennifer Beaulieu | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | jbeaulieu@woodardcurran.com |
+| Treasurer | [Michael Newman](https://www.linkedin.com/in/michael-newman-82481722/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | mnewman@woodardcurran.com |
+| Secretary | Jennifer Beaulieu | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | jbeaulieu@woodardcurran.com |
 | Immediate Past Chair | Dana Lowes-Hobson | [TRC](http://www.trcsolutions.com/) | 860-298-6203 | dlowes-hobson@trcsolutions.com |
 
 ### Board of Directors
@@ -35,7 +35,7 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 | Director | Ledge Chamberlain | [Eversource](https://www.eversource.com/content/) | 860-665-3183 | h.chamberlain@eversource.com |
 | Director | Dennis Demchak    | Retired     |       |        |
 | Director | Lee Hoffman       | [Pullman & Comley](http://www.pullcom.com/) | 860-424-4315 | lhoffman@pullcom.com |
-| Director | Steve Holtman     | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | sholtman@woodardcurran.com |
+| Director | Steve Holtman     | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | sholtman@woodardcurran.com |
 | Director | Robert Isner      | [CT Dept of Energy & Environment Protection](http://www.ct.gov/deep/) | 860-424-3264 | robert.isner@ct.gov |
 | Director | Doug Murray       | [TRC](http://www.trcsolutions.com/) | 860-298-6240 | dmurray@trcsolutions.com |
 
