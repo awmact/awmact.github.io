@@ -23,7 +23,7 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 | Position | Name          | Affiliation | Phone | E-mail |
 | -------- | ------------- | ----------- | ----- | ------ |
 | Chair    | David Krochko | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | dkrochko@woodardcurran.com |
-| Vice Chair | Iain Kinsella | [Yale University](https://www.yale.edu/) | | iain.kinsella@yale.edu |
+| Vice Chair | Iain Kinsella | [Yale University](https://www.yale.edu/) | 203-436-8034 | iain.kinsella@yale.edu |
 | Treasurer | [Michael Newman](https://www.linkedin.com/in/michael-newman-82481722/) | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | mnewman@woodardcurran.com |
 | Secretary | Jennifer Beaulieu | [Woodward & Curran](http://www.woodardcurran.com/) | 888-265-8969 | jbeaulieu@woodardcurran.com |
 | Immediate Past Chair | Dana Lowes-Hobson | [TRC](http://www.trcsolutions.com/) | 860-298-6203 | dlowes-hobson@trcsolutions.com |
