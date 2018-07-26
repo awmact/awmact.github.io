@@ -60,4 +60,4 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 ### Related Links
 
 * [A&WMA New England Section](http://www.awmanewengland.org/)
-* [Air & Waste Mangaement Association](http://www.awma.org/)
+* [Air & Waste Management Association](http://www.awma.org/)
