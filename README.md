@@ -14,7 +14,7 @@ The Connecticut Chapter of the Air & Waste Management Association has initiated 
 
 The Chapter will award one scholarship with a value of $1000 for the upcoming academic year to the most qualified individual meeting the requirements.
 
-Applications must be submitted by the first business day following March 31st, each year. The application package can be downloaded from the A&WMA New England Section website [Click Here](http://www.awmanewengland.org/Documents/CT%20Chapter/CT%20AWMA%20Scholarship%20Application.pdf).
+[Applications (click here to download)](https://github.com/awmact/awmact.github.io/raw/master/CT-AWMA-Scholarship-Application.pdf) must be submitted by the first business day following March 31st, each year.
 
 <a href="https://www.linkedin.com/groups/5156530"><img src="Linked-in-Logo.png" width="124" height="43" /></a>
 
@@ -39,7 +39,7 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 | Position | Name              | Affiliation | Phone | E-mail |
 | -------- | ----------------- | ----------- | ----- | ------ |
 | Director | [Ledge Chamberlain](https://www.linkedin.com/in/ledger-chamberlain-a5864266/) | [Eversource](https://www.eversource.com/content/) | 860-665-3183 | [h.chamberlain@eversource.com](mailto:h.chamberlain@eversource.com) |
-| Director | [Dennis Demchak](https://www.linkedin.com/in/dennis-demchak-0b3a629b/) | Retired     |       |        |
+| Director | [Dennis Demchak](https://www.linkedin.com/in/dennis-demchak-0b3a629b/) | Retired     |       | [dennisd178@me.com](mailto:dennisd178@me.com)       |
 | Director | [Lee Hoffman](https://www.linkedin.com/in/lee-hoffman-7546609/) | [Pullman & Comley](http://www.pullcom.com/) | 860-424-4315 | [lhoffman@pullcom.com](mailto:lhoffman@pullcom.com) |
 | Director | [Steve Holtman](https://www.linkedin.com/in/steve-holtman-bb9a7611/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | [sholtman@woodardcurran.com](mailto:sholtman@woodardcurran.com) |
 | Director | [Robert Isner](https://www.linkedin.com/in/robert-isner-1891b447/) | [CT Dept of Energy & Environment Protection](http://www.ct.gov/deep/) | 860-424-3264 | [robert.isner@ct.gov](mailto:robert.isner@ct.gov) |
@@ -47,9 +47,9 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 ### Education Committee
 
-| Position | Name |
-| -------- | ---- |
-| Chair    | *Open Position*|
+| Position | Name | Affiliation | Phone | E-mail |
+| -------- | ---- | ----------- | ----- | ------ |
+| Chair    | [Evan Bali](https://www.linkedin.com/in/evan-bali-b144525/) | Canomara LLC | | [evan@canomara.com](mailto:evan@canomara.com) |
 
 ### Social Media Committee
 
