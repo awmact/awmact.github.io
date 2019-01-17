@@ -49,7 +49,7 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 
 | Position | Name | Affiliation | Phone | E-mail |
 | -------- | ---- | ----------- | ----- | ------ |
-| Chair    | [Evan Bali](https://www.linkedin.com/in/evan-bali-b144525/) | [Canomara LLC](https://canomara.com/) | | [evan@canomara.com](mailto:evan@canomara.com) |
+| Chair    | [Evan Bali](https://www.linkedin.com/in/evan-bali-b144525/) | [Canomara LLC](https://canomara.com/) | 860-865-1166 | [evan@canomara.com](mailto:evan@canomara.com) |
 
 ### Social Media Committee
 
