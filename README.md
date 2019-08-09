@@ -4,6 +4,30 @@
 
 The Connecticut Chapter of the Air & Waste Management Association, New England Section, is a group of environmental professionals with related scientific, engineering, and health backgrounds from private sector companies, government agencies, and academia.  Regular meetings are scheduled throughout the year and include evening dinners with speakers on current environmental topics of interest, other educational events, and site tours.   The Chapter supports CT student science fairs and sponsors an annual scholarship for high school and college students. 
 
+## Upcoming Event
+
+### September 11, 2019 (6:00 PM to 8:30 PM) - Dinner Meeting. An Evening with CTDEEP's Commissioner Katie Dykes. Dakota of Rocky Hill, CT.
+
+_<a href="2019-09-11-awma-ct-event.pdf"> Click Here for PDF with full event info and sign-up instructions.</a>_
+
+Please join the CT Chapter of the Air & Waste Management Association (AWMA) for an
+insightful and lively discussion with CTDEEP’s Commissioner Katie Dykes. Come hear
+firsthand what Ms. Dykes views as the top priorities, issues, challenges facing CTDEEP
+and the regulated community including Ms. Dykes 20 by '20 initiative. The 20 by '20
+initiative will set forth 20 measurable process improvements between today and December
+31, 2020 aimed at increasing predictability, efficiency, and transparency of DEEP’s
+regulatory processes, with accountability provided through a public dashboard of key
+indicators.
+
+Ms. Dykes was nominated by Governor Ned Lamont to serve as the Commissioner of
+CTDEEP, and was confirmed on February 20, 2019. She previously served as Chair of the
+Connecticut Public Utilities Regulatory Authority (PURA) from 2015-2018, and as Deputy
+Commissioner for Energy at Connecticut DEEP from 2012-2015. Katie also served as the
+Chair of the Board of Directors of the Regional Greenhouse Gas Initiative, Inc. (RGGI) from
+2014 to 2017.
+
+As always, food and drink and discussion with your fellow attendees will add to the evening.
+
 ## Past Events
 
 | Event | Photo |
