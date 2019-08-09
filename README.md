@@ -6,7 +6,11 @@ The Connecticut Chapter of the Air & Waste Management Association, New England S
 
 ## Past Events
 
-<a href="https://www.awma.org/ace2018"><img src="ACE2018-Banner.gif"></a>
+| Event | Photo |
+| ----- | ----- |
+| July 24, 2019 - Two Roads Brewery "Area 2" Tour - Stratford, CT | <img src="IMG_20190724_191315_800x600.jpg"> |
+| February 26, 2019 - CTDEEP Air Bureau Chief Tracy Babbidge - Dakota Restaurant - Rocky Hill, CT | <img src="IMG_20190226_194336_800x600.jpg"> |
+| June 25-28, 2018 - A&WMA Annual Conference and Exhibition - Connecticut Convention Center - Hartford, CT | <img src="IMG_20180625_160902_800x600.jpg"> |
 
 ## Student Scholarship
 
