@@ -42,7 +42,7 @@ The Connecticut Chapter of the Air & Waste Management Association has initiated 
 
 The Chapter will award one scholarship with a value of $1000 for the upcoming academic year to the most qualified individual meeting the requirements.
 
-[Applications (click here to download)](https://github.com/awmact/awmact.github.io/raw/master/CT-AWMA-Scholarship-Application.pdf) must be submitted by the first business day following March 31st, each year.
+[Applications (click here to download)](https://github.com/awmact/awmact.github.io/raw/master/CT-AWMA-Scholarship-Application.pdf) must be submitted by April 15, 2020.
 
 <a href="https://www.linkedin.com/groups/5156530"><img src="Linked-in-Logo.png" width="124" height="43" /></a>
 
