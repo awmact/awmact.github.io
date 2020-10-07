@@ -58,7 +58,7 @@ For questions or information about membership in the Connecticut Chapter of A&WM
 | -------- | ------------- | ----------- | ----- | ------ |
 | Chair    | [David Krochko](https://www.linkedin.com/in/david-krochko-p-e-0509b017/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | [dkrochko@woodardcurran.com](mailto:dkrochko@woodardcurran.com) |
 | Vice Chair | [Iain Kinsella](https://www.linkedin.com/in/iain-kinsella-497241116/) | [Yale University](https://www.yale.edu/) | 203-436-8034 | [iain.kinsella@yale.edu](mailto:iain.kinsella@yale.edu) |
-| Treasurer | [Michael Newman](https://www.linkedin.com/in/michael-newman-82481722/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | [mnewman@woodardcurran.com](mailto:mnewman@woodardcurran.com) |
+| Treasurer | (Position Open) |  | |  |
 | Secretary | [Jennifer Beaulieu](https://www.linkedin.com/in/jennifer-beaulieu-393ab849/) | [Woodard & Curran](http://www.woodardcurran.com/) | 888-265-8969 | [jbeaulieu@woodardcurran.com](mailto:jbeaulieu@woodardcurran.com) |
 | Immediate Past Chair | [Dana Lowes-Hobson](https://www.linkedin.com/in/dana-lowes-hobson-8699a75/) | [TRC](http://www.trcsolutions.com/) | 860-298-6203 | [dlowes-hobson@trccompanies.com](mailto:dlowes-hobson@trccompanies.com) |
 
