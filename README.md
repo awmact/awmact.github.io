@@ -40,9 +40,7 @@ As always, food and drink and discussion with your fellow attendees will add to 
 
 The Connecticut Chapter of the Air & Waste Management Association has initiated a scholarship program to improve knowledge and skills in the fields of air and waste management. Applicants must be Connecticut residents and high school seniors accepted as full-time college students or full-time college students. Applicants must be pursuing or planning to pursue courses of study in science or engineering leading to careers in the environmental field, especially air quality or waste management.
 
-The Chapter will award one scholarship with a value of $1000 for the upcoming academic year to the most qualified individual meeting the requirements.
-
-[Applications (click here to download)](https://github.com/awmact/awmact.github.io/raw/master/CT-AWMA-Scholarship-Application.pdf) must be submitted by April 15, 2020.
+**The scholarship is NOT being offered during 2021. Please check back next year.**
 
 <a href="https://www.linkedin.com/groups/5156530"><img src="Linked-in-Logo.png" width="124" height="43" /></a>
 
